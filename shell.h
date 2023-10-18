@@ -18,7 +18,7 @@ extern char **environ;
 
 /**
  * struct vandata -  struct to holds main input.
- * @av: Array array tokenizer to hold all execution
+ * @av: Array array tokenizer to hold all execution.
  * @cmd: The user input, the command line
  * @_shell: the name of my shell (van_shell).
  * @_lastExitStat: last command entered before exiting shell
